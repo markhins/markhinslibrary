@@ -1,0 +1,1 @@
+﻿positionForPages[30]={page:30,positions:[{word:"30",left:0.491225,top:0.955177,width:0.018100,height:0.013889},{word:"The End",left:0.355147,top:0.468219,width:0.290033,height:0.067126}]};
